@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: تحويل النص إلى صوت",
+  "description": "تطبيق ذكي لتحويل النصوص العربية إلى كلام مسموع بمختلف اللهجات (العراقية، السعودية، الإماراتية) مع ضبط نبرة الصوت والانفعال واللفظ السليم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
